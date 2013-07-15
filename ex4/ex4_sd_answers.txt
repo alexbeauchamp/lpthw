@@ -1,0 +1,18 @@
+Error message:
+	This error message occurred becuase the variable car_pool_capacity has not yet been defined.
+	This error occurrs on line 8.
+
+1. Using the floating point numbers allows for calculations of numbers that are not evenly divisible by 4 and 
+   producing the expected result and not a rounded number.
+
+2. Floating point numbers are representations of real numbers as oppessed to integers.  Due to the nature of floating
+   point numbers being represented as base 2 fractions there is a bit of imprecision in the numbers.  Python allows for 53
+   bits of precision in floating point numbers.
+
+3. See comments in ex4_sd3.py
+
+4. The = is the assignment operator.  It assigns a name to something as in assigning a value to a variable.
+
+5. The underscore is used to represent spaces in a name.
+
+
